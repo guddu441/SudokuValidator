@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472990802 source:c:\users\pasta\desktop\c++practice\sudokuvalidator\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+
